@@ -7,10 +7,8 @@ This project showcases my proficiency in C++ programming and my ability to integ
 
 ## Gallery
 
-![Image 1](images/image1.jpg)
 ![Image 2](images/image2.jpg)
 ![Image 2](images/image3.jpg)
-![Image 2](images/image4.jpg)
 ![Image 2](images/image5.jpg)
 
 ## Project Highlights
