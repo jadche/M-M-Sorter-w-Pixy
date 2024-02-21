@@ -5,6 +5,14 @@ M&amp;M Sorting Machine
 
 This project showcases my proficiency in C++ programming and my ability to integrate hardware components like the Pixy CMUcam5, stepper motor, and servo motor to create a candy sorting machine.
 
+## Gallery
+
+![Image 1](images/image1.jpg)
+![Image 2](images/image2.jpg)
+![Image 2](images/image3.jpg)
+![Image 2](images/image4.jpg)
+![Image 2](images/image5.jpg)
+
 ## Project Highlights
 
 - Utilizes C++ programming language for Arduino development.
