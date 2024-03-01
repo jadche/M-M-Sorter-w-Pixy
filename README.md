@@ -62,10 +62,3 @@ void Sort(int ID){
 1. Connect the Pixy CMUcam5 to the Arduino's ICSP SPI port.
 2. Connect the stepper motor to the appropriate pins on the Arduino.
 3. Connect the servo motor to the designated pin on the Arduino.
-
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Set up the hardware components as per the hardware setup instructions.
-3. Upload the C++ code to your Arduino using the Arduino IDE.
-4. Monitor the sorting process and observe the candy counts through the serial console.
